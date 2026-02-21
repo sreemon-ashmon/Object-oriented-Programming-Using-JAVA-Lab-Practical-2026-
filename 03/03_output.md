@@ -1,0 +1,4 @@
+## OUTPUT
+    
+    Enter a number: 7
+    Factorial of 7 is: 5040
