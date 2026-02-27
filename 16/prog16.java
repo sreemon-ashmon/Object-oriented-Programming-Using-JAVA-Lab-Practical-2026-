@@ -1,21 +1,21 @@
-// Q) Write a Java program to create a package and access it from another class.
+// Q) Create a package named Music and declare a class Song.
 
 //--------------------------------mypack[Folder]--------------------------------------//
-// FILE 1 :
-package mypack;
+// FILE 1 song.java :
+package Music;
 
-public class Message {
-    public void show() {
-        System.out.println("Hello from package!");
+public class Song {
+    public void play() {
+        System.out.println("Song is playing...");
     }
 }
 
-//FILE 2 :
-import mypack.Message;
+//FILE 2 Main.java :
+import Music.Song;
 
 public class Main {
     public static void main(String[] args) {
-        Message m = new Message();
-        m.show();
+        Song s = new Song();
+        s.play();
     }
 }
