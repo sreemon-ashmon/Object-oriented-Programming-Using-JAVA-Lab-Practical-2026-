@@ -1,38 +1,18 @@
 ## Output
-    
     Rectangle:
-    Enter length: 5
-    Enter breadth: 3
-    Rectangle:
-    Enter length: 5
-    Enter breadth: 3
-    Enter height: 1
-    Length = 5.0
-    Breadth = 3.0
-    Height = 1.0
-    Area of Rectangle = 15.0
+    Enter length: 3
+    Enter breadth: 4
+    Enter height: 3
+    Length = 3.0
+    Breadth = 4.0
+    Height = 3.0
+    Area of Rectangle = 12.0
     
     Triangle:
-    Enter length: 2
-    Enter breadth: 3
-    Enter height: 
-    1
-    Length = 2.0
-    Breadth = 3.0
-    Height = 1.0
-    Area of Triangle = 1.5
-    Enter height: 1
-    Length = 5.0
-    Breadth = 3.0
-    Height = 1.0
-    Area of Rectangle = 15.0
-    
-    Triangle:
-    Enter length: 2
-    Enter breadth: 3
-    Enter height: 
-    1
-    Length = 2.0
-    Breadth = 3.0
-    Height = 1.0
-    Area of Triangle = 1.5
+    Enter length: 1
+    Enter breadth: 2
+    Enter height: 5
+    Length = 1.0
+    Breadth = 2.0
+    Height = 5.0
+    Area of Triangle = 5.0
