@@ -1,5 +1,5 @@
 ## Output
     
-  ![](20 -op1.png)
+  ![](20_op1.png)
   
-  ![](20 -op2.png)
+  ![](20_op2.png)
