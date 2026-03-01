@@ -1,5 +1,4 @@
-// Q) Using Swing, create a button named "Click Me".
-// When clicked, display "Hello! You clicked the button" in a textbox.
+// Q) write a java program using swing components to count words in a sentence ?
 
 import javax.swing.*;
 import java.awt.event.*;
